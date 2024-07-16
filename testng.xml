@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="/Users/promode/IdeaProjects/LearningSeleniumATB6x">
+    <test verbose="2" preserve-order="true"
+          name="D:/TTA_WorkSpace/ATB6xLearningSelenium/src/test/java/com/thetestingacademy/ex_selenium/Lab305.java">
         <classes>
-            <class name="com.thetestingacademy.ex_selenium.Lab298">
+            <class name="com.thetestingacademy.ex_selenium.Lab305">
                 <methods>
-                    <include name="vwoLogin"/>
+                    <include name="testVWOLoginTitle"/>
                 </methods>
             </class>
         </classes>
